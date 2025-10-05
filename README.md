@@ -1,2 +1,3 @@
 "# Git Practice" 
-"Gi?i thi?u: T“i l… <Lƒm D?ng Thanh Tr…>, MSSV <223259>." 
+"Gi?i thi?u: Tï¿½i lï¿½ <Lï¿½m D?ng Thanh Trï¿½>, MSSV <223259>." 
+git switch main - ba;ba
