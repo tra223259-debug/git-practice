@@ -1,3 +1,2 @@
-# Git Practice
- 
-Gioi thieu: Toi la LAM DANG THANH TRA, 223259.
+"# Git Practice" 
+"Gi?i thi?u: T“i l… <Lƒm D?ng Thanh Tr…>, MSSV <223259>." 
